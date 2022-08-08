@@ -1,1 +1,1 @@
-# JavaScript_Data_Structure_Algorithms
+# JavaScript_practices
